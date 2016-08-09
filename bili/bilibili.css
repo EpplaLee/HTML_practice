@@ -1,0 +1,13 @@
+body
+{
+	background-image:url('./bilibiliback.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	background-size:1800px 948px ;
+}
+
+h1[type="title"]
+{
+	text-decoration:blink;
+}
